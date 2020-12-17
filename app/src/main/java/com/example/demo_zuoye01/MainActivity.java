@@ -34,6 +34,6 @@ public class MainActivity extends AppCompatActivity {
             public void run() {
                 viedo.start();
             }
-        },300);
+        },2000);
     }
 }
